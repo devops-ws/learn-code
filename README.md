@@ -5,4 +5,4 @@ Improve your code skills via LeetCode
 
 | 题目 | 难度 | 答案 |
 |---|---|---|
-| [回文数](https://leetcode.cn/problems/palindrome-number/) | 1 | items/palindrome.md |
+| [回文数](https://leetcode.cn/problems/palindrome-number/) | 1 | [Read me](items/palindrome.md) |
