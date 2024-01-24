@@ -7,3 +7,4 @@ Improve your code skills via LeetCode
 |---|---|---|
 | [回文数](https://leetcode.cn/problems/palindrome-number/) | 1 | [Read me](items/palindrome.md) |
 | [罗马数字转整数](https://leetcode.cn/problems/roman-to-integer/) | 1 | [Read me](items/romanToInt.md) |
+| [有效的括号](https://leetcode.cn/problems/valid-parentheses/submissions/498038213/) | 1 | [Read me](items/valid-brace.md) |
