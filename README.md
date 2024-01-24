@@ -4,5 +4,5 @@
 Improve your code skills via LeetCode
 
 | 题目 | 难度 |
-|---|---|---|
+|---|---|
 | [回文数](https://leetcode.cn/problems/palindrome-number/) | 1 |
