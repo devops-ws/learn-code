@@ -1,7 +1,7 @@
 ---
 rank: 1
-description:
-link: 
+description: 最长公共前缀
+link: https://leetcode.cn/problems/longest-common-prefix/description/
 ---
 
 ```golang
