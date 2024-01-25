@@ -8,5 +8,6 @@ Improve your code skills via LeetCode
 | [最长公共前缀](https://leetcode.cn/problems/longest-common-prefix/description/) | 1 | [Read me](items/longest-common-prefix.md) |
 | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | 1 | [Read me](items/merge_two_list.md) |
 | [回文数](https://leetcode.cn/problems/palindrome-number/) | 1 | [Read me](items/palindrome.md) |
+| [删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/description/) | 1 | [Read me](items/remove_duplicated_items.md) |
 | [罗马数字转整数](https://leetcode.cn/problems/roman-to-integer/) | 1 | [Read me](items/romanToInt.md) |
 | [有效的括号](https://leetcode.cn/problems/valid-parentheses/submissions/498038213/) | 1 | [Read me](items/valid-brace.md) |
