@@ -1,5 +1,5 @@
 # learn-code
-Improve your code skills via LeetCode
+Improve your code skills via LeetCode. There {{len .}} questions and answers below:
 
 | 题目 | 难度 | 答案 |
 |---|---|---|
